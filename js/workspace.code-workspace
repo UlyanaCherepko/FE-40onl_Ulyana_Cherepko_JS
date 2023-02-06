@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "js_landing_practice",
+			"path": "../../../js_landing_practice"
+		},
+		{
+			"name": "FE-40onl_Ulyana_Cherepko_JS",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js_landing1"
+	}
+}
